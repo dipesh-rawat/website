@@ -86,6 +86,10 @@
 <!--Script for dismissing banners/notices-->
 <script defer src="{{ "js/dismiss_banner.js" | relURL }}"></script>
 
+<!-- Script for partial layout 'docs/kubectl-reference-index' -->
+{{- if eq .Page.RelPermalink "/docs/reference/kubectl/generated/" -}}
+<script defer src="{{ "js/kubectl-reference-index.js" | relURL }}"></script>
+{{- end -}}
 
 {{- if or (.HasShortcode "table")  (.HasShortcode "feature-gate-table") -}}
 <script defer src="{{ "js/sortable-table.js" | relURL }}"></script>
