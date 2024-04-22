@@ -3,9 +3,9 @@ title: "Two-phased Canary Rollout with Open Source Gloo"
 date: 2020-04-22
 slug: two-phased-canary-rollout-with-gloo
 url: /blog/2020/04/Two-phased-Canary-Rollout-With-Gloo
+author: >
+  Rick Ducott [GitHub](https://github.com/rickducott/) | [Twitter](https://twitter.com/ducott) 
 ---
-
-**Author:** Rick Ducott | [GitHub](https://github.com/rickducott/) | [Twitter](https://twitter.com/ducott)
 
 Every day, my colleagues and I are talking to platform owners, architects, and engineers who are using [Gloo](https://github.com/solo-io/gloo) as an API gateway
 to expose their applications to end users. These applications may span legacy monoliths, microservices, managed cloud services, and Kubernetes

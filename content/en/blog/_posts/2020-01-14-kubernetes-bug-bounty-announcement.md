@@ -3,10 +3,10 @@ layout: blog
 title: "Announcing the Kubernetes bug bounty program"
 date: 2020-01-14T09:00:00-08:00
 slug: kubernetes-bug-bounty-announcement
+author: >
+  Maya Kaczorowski and Tim Allclair, Google, on behalf of the [Kubernetes Product Security Committee](https://github.com/kubernetes/community/tree/master/committee-product-security)
+
 ---
-
-**Authors:** Maya Kaczorowski and Tim Allclair, Google, on behalf of the [Kubernetes Product Security Committee](https://github.com/kubernetes/community/tree/master/committee-product-security)
-
 
 Today, the [Kubernetes Product Security Committee](https://github.com/kubernetes/community/tree/master/committee-product-security) is launching a [new bug bounty program](https://hackerone.com/kubernetes), funded by the [CNCF](https://www.cncf.io/), to reward researchers finding security vulnerabilities in Kubernetes.
 
