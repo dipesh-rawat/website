@@ -4,9 +4,10 @@ title: "Meet Our Contributors - APAC (India region)"
 date: 2022-01-10
 slug: meet-our-contributors-india-ep-01
 canonicalUrl: https://www.kubernetes.dev/blog/2022/01/10/meet-our-contributors-india-ep-01/
+author: >
+   [Anubhav Vardhan](https://github.com/anubha-v-ardhan), [Atharva Shinde](https://github.com/Atharva-Shinde), [Avinesh Tripathi](https://github.com/AvineshTripathi), [Debabrata Panigrahi](https://github.com/Debanitrkl), [Kunal Verma](https://github.com/verma-kunal), [Pranshu Srivastava](https://github.com/PranshuSrivastava), [Pritish Samal](https://github.com/CIPHERTron), [Purneswar Prasad](https://github.com/PurneswarPrasad),
+   [Vedant Kakde](https://github.com/vedant-kakde)
 ---
-
-**Authors & Interviewers:** [Anubhav Vardhan](https://github.com/anubha-v-ardhan), [Atharva Shinde](https://github.com/Atharva-Shinde), [Avinesh Tripathi](https://github.com/AvineshTripathi), [Debabrata Panigrahi](https://github.com/Debanitrkl), [Kunal Verma](https://github.com/verma-kunal), [Pranshu Srivastava](https://github.com/PranshuSrivastava), [Pritish Samal](https://github.com/CIPHERTron), [Purneswar Prasad](https://github.com/PurneswarPrasad), [Vedant Kakde](https://github.com/vedant-kakde)
 
 **Editor:** [Priyanka Saggu](https://psaggu.com)
 
