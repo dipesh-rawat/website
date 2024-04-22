@@ -4,9 +4,9 @@ date: 2017-12-15
 slug: kubernetes-19-workloads-expanded-ecosystem
 url: /blog/2017/12/Kubernetes-19-Workloads-Expanded-Ecosystem
 evergreen: true
+author: >
+  Kubernetes v1.9 release team 
 ---
-
-**Authors:** Kubernetes v1.9 release team
 
 We’re pleased to announce the delivery of Kubernetes 1.9, our fourth and final release this year.  
 
